@@ -7,6 +7,7 @@ bundle exec jekyll serve
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
+gem install bundler -v 2.4.22
 gem "jekyll", "~> 4.0.0"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.5"
